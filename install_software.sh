@@ -11,4 +11,6 @@ echo "install some softwares for ubuntu..."
 # ubuntu-tweak
 ./script/install_ubuntu_tweak.sh
 
+# vim and gvim
+./script/install_vim.sh
 
