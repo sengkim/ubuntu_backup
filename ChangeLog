@@ -1,3 +1,4 @@
 [2011/03/15]
 1、右键菜单中显示终端选项，用于右键打开终端(install_right_terminal.sh)
 2、使用方便的终端工具：terminator(install_terminator.sh)
+3、安装ubuntu-tweak(install_ubuntu_tweak.sh)
