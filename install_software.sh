@@ -20,3 +20,8 @@ echo "install some softwares for ubuntu..."
 # openfetion
 ./script/install_openfetian.sh
 
+# curl
+./script/install_curl.sh
+
+
+
