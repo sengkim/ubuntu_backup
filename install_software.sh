@@ -17,3 +17,6 @@ echo "install some softwares for ubuntu..."
 # stardict-gnome
 ./script/install_stardict_gnome.sh
 
+# openfetion
+./script/install_openfetian.sh
+
