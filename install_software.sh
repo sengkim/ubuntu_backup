@@ -14,3 +14,6 @@ echo "install some softwares for ubuntu..."
 # vim and gvim
 ./script/install_vim.sh
 
+# stardict-gnome
+./script/install_stardict_gnome.sh
+
