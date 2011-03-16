@@ -23,5 +23,6 @@ echo "install some softwares for ubuntu..."
 # curl
 ./script/install_curl.sh
 
-
+# RabbitVCS，类似于TortoiseSVN的工具
+./script/install_rabbitvcs.sh
 
