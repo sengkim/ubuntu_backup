@@ -2,7 +2,7 @@
 
 # install vim and gvim
 echo "[!!!] install vim and gvim"
-sudo apt-get -y install vim vim-gnome
+sudo apt-get -y install vim vim-gnome ctags vim-doc vim-scripts cscope
 
 # setting config
 echo "-->>> check config files."
