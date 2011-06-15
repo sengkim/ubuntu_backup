@@ -2,7 +2,7 @@
 
 # install
 echo "[!!!] install terminator..."
-sudo apt-get install terminator
+sudo apt-get -y install terminator
 
 # setting config
 echo "-->>> check config files."
